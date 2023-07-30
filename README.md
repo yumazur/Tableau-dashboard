@@ -1,6 +1,8 @@
 # Dashboard-Tableau
 An interactive dashboard has been prepared based on data on visits to Yandex.Dzen cards and themes
 This dashboard is intended for content analysis managers who want to study user interaction with Yandex.Dzen cards. The dashboard provides a visualization of events by card topics, a breakdown of events by source topics, and a table of correspondence between source topics and card topics. Grouping data on the dashboard is available by date and time, card theme and age group. 
+### Link:
+https://public.tableau.com/app/profile/yulia.mazur3149/viz/DashboardYandex_16907052667210/Dashboard1?publish=yes 
 ### Skills and tools:
 Tableau
 ### Examples of visualizing data from a project:
